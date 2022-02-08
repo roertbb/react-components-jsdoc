@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "jsx": "react-jsx",
+    // "checkJs": true,
+    "allowSyntheticDefaultImports": true
+  }
+}
